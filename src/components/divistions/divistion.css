@@ -1,0 +1,57 @@
+.division-container{
+	border: 1px solid #dedede;
+	width: 90%;
+	margin: auto;
+}
+.header{
+	padding-left: 14px;
+	display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-direction: column;
+}
+.header .banners{
+	width: initial;
+	border: 1px solid #000;
+    border-radius: 2px;
+    padding: 2px 8px;
+    margin-right: 4px;
+}
+.checkbox-container{
+	display: flex;
+    flex-flow: row wrap;
+}
+.list-items {
+    width: 20%;
+}
+.list-items li{
+   float: left;
+   width: 100%;
+   display: block;
+}
+.list-items li label{
+	display: flex;
+    text-align: left;
+}
+.checkbox-container span{
+	padding: initial;
+}
+.krogger-container h3 span{
+	padding: initial;
+}
+.icon--image{
+	display: flex;
+	align-items: center;
+	margin-top: 10px;
+}
+.icon--image h3{
+	margin-right: 20px;
+}
+.select-divisions{
+	display: flex;
+	justify-content: flex-end;
+	width:70%;
+}
+.divisionsAndBanners{
+	padding:0px 14px;
+}

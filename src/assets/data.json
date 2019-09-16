@@ -1,0 +1,31 @@
+  {
+    "data": [{
+        "backers": "Backer's PLus",
+        "market": "City Market",
+        "dillions": "Dillions",
+        "food": "Food$less",
+        "foodsCo": "FoodsCo",
+        "fred": "Fred Mayer"
+      },
+      {
+        "backers": "fry's",
+        "market": "Gerbes",
+        "dillions": "Jay C",
+        "food": "King Soopers",
+        "foodsCo": "Kroger",
+        "fred": "Owen's Market"
+      },
+      {
+        "backers": "Pay-Less",
+        "market": "QFC",
+        "dillions": "Ralphs",
+        "food": "Smith;s Food & Drugs'S",
+        "foodsCo": "Coops",
+        "fred": "Marianos"
+      },
+      {
+        "backers": "Metro Market",
+        "market": "Pick n Save"
+      }
+    ]
+  }

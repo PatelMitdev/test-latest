@@ -1,0 +1,44 @@
+.schedule-container{
+    width: 90%;
+    margin: 10px auto;
+    border: 1px solid #dedede;
+    padding: 0 10px;
+}
+.schedule-drop{
+    display:flex;
+    align-items: center;
+}
+.scheduleEle .dates_slots, .scheduleEle .times_slots{
+    display: flex;
+    width: 70%;
+    margin: 10px 0;
+    justify-content: space-between;
+}
+.scheduleEle .label-slot{
+    margin-right: 10px;
+}
+.times_slots .ant-time-picker{
+    width:195px;
+    margin-right:10px;
+}
+.condition-type div{
+    margin:5px 0;
+}
+.dates_slots div:nth-child(2) span:nth-child(2){
+    margin-right:25px;
+}
+.condition-type div span{
+    display:inline-block;
+    text-align: left;
+    width:100%;
+}
+.schedule-btns{
+    text-align: right;
+    margin: 10px 0;
+}
+.schedule-btns button{
+   margin:0 5px;
+}
+.scheduleEle span{
+    font-weight: bold;
+}

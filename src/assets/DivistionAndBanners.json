@@ -1,0 +1,180 @@
+{
+	"banners": [
+		{
+		"states": [
+			{
+				"state": "Atlanta(011)",
+				"checked": false
+			},
+			{
+				"state": "Central(021)",
+				"checked": false
+			},
+			{
+				"state": "cincinnati(014)",
+				"checked": false
+			},
+			{
+				"state": "Columbs(016)",
+				"checked": false
+			}
+		]
+
+	},
+	{
+		"states": [
+			{
+				"state": "Dolloa(035)",
+				"checked": false
+			},
+			{
+				"state": "Delta(025)",
+				"checked": false
+			},
+			{
+				"state": "Houston(034)",
+				"checked": false
+			},
+			{
+				"state": "Lovisille(024)",
+				"checked": false
+			}
+		]
+
+	},{
+		"states": [
+			{
+				"state": "Michegon(018)",
+				"checked": false
+			},
+			{
+				"state": "Mid-Atlantic(029)",
+				"checked": false
+			},
+			{
+				"state": "Nashiville(026)",
+				"checked": false
+			}
+		]
+
+	}
+],
+	"divisions": [
+ 		{
+		"states": [
+			{
+				"state": "California(704)",
+				"checked": false
+			},
+			{
+				"state": "Baker's Plus",
+				"checked": false
+			},
+			{
+				"state": "City Market",
+				"checked": false
+			},
+			{
+				"state": "Coops",
+				"checked": false
+			},
+			{
+				"state": "Dilions",
+				"checked": false
+			},
+			{
+				"state": "FoodsCo",
+				"checked": false
+			},
+			{
+				"state": "Fred Meyer",
+				"checked": false
+			}
+		]
+
+	},
+	{
+		"states": [
+			{
+				"state": "Midwest(708)",
+				"checked": false
+			},
+			{
+				"state": "Frey's",
+				"checked": false
+			},
+			{
+				"state": "Gerbes",
+				"checked": false
+			},
+			{
+				"state": "Harris teeter Pharmacy",
+				"checked": false
+			},
+			{
+				"state": "Jay c",
+				"checked": false
+			},
+			{
+				"state": "King Soopers",
+				"checked": false
+			},
+			{
+				"state": "Krogger specality Pharmacy Patient Portal",
+				"checked": false
+			}
+		]
+
+	},
+	{
+		"states": [
+			{
+				"state": "Marions",
+				"checked": false
+			},
+			{
+				"state": "Metro Market",
+				"checked": false
+			},
+			{
+				"state": "Owen's Market",
+				"checked": false
+			},
+			{
+				"state": "Pay-Less",
+				"checked": false
+			},
+			{
+				"state": "Pick n Save",
+				"checked": false
+			},
+			{
+				"state": "PPSRX",
+				"checked": false
+			}
+			
+		]
+
+	},{
+		"states": [
+			{
+				"state": "QFC",
+				"checked": false
+			},
+			{
+				"state": "Ralphs",
+				"checked": false
+			},
+			{
+				"state": "Smith Food & Drug",
+				"checked": false
+			},
+			{
+				"state": "The Little Clinic",
+				"checked": false
+			}					
+		]
+
+	}
+	]
+}
